@@ -1,0 +1,42 @@
+.parallax {
+    background-image: url("welcome.jpg");
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-light-blue {
+    height:500px;
+    background-color:#4bcbe4;
+    font-size:36px;
+    color: white;
+    text-align: center;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.text-purple {
+    height:800px;
+    background-color:#a77ee5;
+    font-size:36px;
+    color: white;
+    text-align: center;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.topics {
+    height:300px;
+    background-color:lightgreen;
+    font-size:36px;
+    color: white;
+    text-align: center;
+    font-family: 'IBM Plex Serif', serif;
+}
+.coding-pics-container {
+    display: flex;
+}
+
+.coding-pics {
+    color: purple;
+}

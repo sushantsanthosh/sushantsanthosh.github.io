@@ -33,6 +33,7 @@
     text-align: center;
     font-family: 'IBM Plex Serif', serif;
 }
+
 .topics {
     height:300px;
     background-color:lightgreen;
@@ -40,4 +41,12 @@
     color: white;
     text-align: center;
     font-family: 'IBM Plex Serif', serif;
+}
+
+.code-margins {
+    margin: 100px;
+}
+
+.contact-margins {
+    margin: 50px;
 }

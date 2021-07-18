@@ -25,6 +25,14 @@
     font-family: 'IBM Plex Serif', serif;
 }
 
+.text-orange {
+    height:800px;
+    background-color: #f7a35c;
+    font-size:36px;
+    color: white;
+    text-align: center;
+    font-family: 'IBM Plex Serif', serif;
+}
 .topics {
     height:300px;
     background-color:lightgreen;
